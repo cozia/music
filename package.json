@@ -1,0 +1,27 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "imitate music player!",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cozia/music.git"
+  },
+  "keywords": [
+    "shc19921227"
+  ],
+  "author": "cozia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cozia/music/issues"
+  },
+  "homepage": "https://github.com/cozia/music#readme"
+}
